@@ -1,0 +1,19 @@
+{
+  "name": "yahdoc",
+  "version": "1.0.0",
+  "description": "Generate documentation for javascript, typescript, coffeescript etc. from the comments ",
+  "main": "yahdoc.js",
+  "scripts": {
+    "test": "help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Buggaboo/yahdoc.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Buggaboo/yahdoc/issues"
+  },
+  "homepage": "https://github.com/Buggaboo/yahdoc#readme"
+}
